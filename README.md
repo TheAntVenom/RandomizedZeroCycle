@@ -37,6 +37,7 @@ Use `/rzc` + tab completion to navigate. Type `?` on most entries to get a descr
 * **`deathMsg`** - Shows a message after the dragon goes down, with which game-mode you played, the first X/Y/Z coordinates of the chosen node, and what height the dragon was set to spawn at.
 * **`nodeMarker`** - A color customizable vertical beacon of particles that show over the first X/Z node. Idea directly ripped from Mescht's Practice Map.
 * **`yOffset`** - The Y-axis nodes are chosen with Vanilla 1.16.1's code, but this option will let you offset which coordinate is chosen by a fixed amount.
+* **`spawnHeight`** - Change the height the dragon spawns at, from 0-255.
 
 ---
 
