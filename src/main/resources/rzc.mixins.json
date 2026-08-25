@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.rzc.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "CommandManagerMixin",
+    "EnderDragonEntityMixin",
+    "EnderDragonFightMixin",
+    "EnderDragonHoldingPatternMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
