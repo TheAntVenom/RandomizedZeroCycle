@@ -1,3 +1,4 @@
+<img width="865" height="195" alt="rzc-menu" src="https://github.com/user-attachments/assets/f15ea028-caab-485e-b633-9fe158ebf299" />
 # RandomizedZeroCycle
 
 Gives the user basic control over the first "Ender Dragon Flight Node" with 5 "game-mode" settings. Requires Minecraft 1.16.1 & Fabric Loader.
