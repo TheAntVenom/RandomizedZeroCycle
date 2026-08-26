@@ -4,7 +4,7 @@
 
 Gives the user basic control over the first "Ender Dragon Flight Node" with 5 "game-mode" settings. Requires Minecraft 1.16.1 & Fabric Loader.
 
-Tested with Fabric Loader 0.16.14, within an instance where many / of the most common RSG mods were enabled.
+Tested with Fabric Loader 0.16.14, within an instance where many / most of the most common RSG mods were enabled.
 
 This mod was especially designed to work with both "MiniPracticeKit", and Mescht's Zero Practice Map. I recommend using those to handle your inventory / getting into the end.
 
