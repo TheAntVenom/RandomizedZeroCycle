@@ -48,6 +48,6 @@ Use `/rzc` + tab completion to navigate. Type `?` on most entries to get a descr
 Clone the repository and build using Gradle:
 
 ```bash
-git clone [https://github.com/your-username/RandomizedZeroCycle.git](https://github.com/your-username/RandomizedZeroCycle.git)
+git clone https://github.com/TheAntVenom/RandomizedZeroCycle.git
 cd RandomizedZeroCycle
 ./gradlew build
