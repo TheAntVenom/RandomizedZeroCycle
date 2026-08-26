@@ -12,7 +12,7 @@ This mod was especially designed to work with both "MiniPracticeKit", and Mescht
 
 This mod affects the first X/Z node that dragon chooses when it first spawns in, and it lets you modify the Y-axis of that and all future nodes for the entire fight.
 
-Think "dragon is always at ground level / or always out of reach", if you feel like getting silly with the idea.
+Think "dragon is always at ground level / or always out of reach", if you feel like getting silly with the idea. Behavior is inconsistent, but I CBA to fix it.
 
 I made use out of this to make "low to the ground zero cycle" scenarios, and I imagine there are a lot of odd scenarios that could be cooked up.
 
