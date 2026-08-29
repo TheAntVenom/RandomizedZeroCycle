@@ -4,23 +4,17 @@
   "version": "${version}",
   "name": "Randomized Zero Cycle",
   "description": "Randomizes dragon perch nodes.",
-  "authors": [
-    "AntVenom"
-  ],
+  "authors": ["AntVenom"],
   "contact": {},
   "license": "MIT",
   "environment": "*",
   "entrypoints": {
-    "main": [
-      "com.rzc.RandomizedZeroCycle"
-    ]
+    "main": ["com.rzc.RandomizedZeroCycle"]
   },
-  "mixins": [
-    "rzc.mixins.json"
-  ],
+  "mixins": ["rzc.mixins.json"],
   "depends": {
-    "fabricloader": ">=0.11.0",
-    "minecraft": "1.16.1",
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
     "java": ">=8"
   }
 }
